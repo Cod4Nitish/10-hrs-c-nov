@@ -11,3 +11,21 @@
 ## Learning record
 
 This repository marks a November C-programming practice session. No code was committed, so there is nothing to run or review. It remains archived to keep the learning history honest and the active portfolio focused.
+
+## Repository record
+
+~~~mermaid
+flowchart LR
+    A[November C practice session] --> B[Repository created]
+    B --> C[No C source committed]
+    C --> D[Archived learning marker]
+~~~
+
+| Check | Result |
+| --- | --- |
+| C source files | None committed |
+| Build files | None committed |
+| Runnable program | Not available |
+| Portfolio status | Historical learning marker only |
+
+If this practice is rebuilt, it should live in a new active repository with a focused program, build instructions, and tests rather than altering this archived record.
